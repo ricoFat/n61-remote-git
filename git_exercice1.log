@@ -1,0 +1,23 @@
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_exercice1.log
+	index.html
+	main.js
+	style.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_exercice1.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit 8f29ff53b12fcca75d3ee4f7489c7145d078e205
+Author: ricoFat <accram2005@hotmail.com>
+Date:   Mon May 29 21:59:13 2023 -0400
+
+     Ajout des fichiers index.html, style.css et main.js
